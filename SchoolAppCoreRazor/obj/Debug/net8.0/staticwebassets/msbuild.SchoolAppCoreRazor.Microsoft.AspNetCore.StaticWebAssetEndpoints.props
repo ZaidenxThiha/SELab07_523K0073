@@ -721,16 +721,16 @@
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Nov 2025 09:59:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SchoolAppCoreRazor/SchoolAppCoreRazor.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SchoolAppCoreRazor.zufyqtegho.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SchoolAppCoreRazor.cx1s5j7tcy.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Na3gAR61CGHhFowfS7kiEKWYkSf0ksBIfpsO5ep/2BQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1087"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Na3gAR61CGHhFowfS7kiEKWYkSf0ksBIfpsO5ep/2BQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Nov 2025 10:03:48 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QAY3/qM6mKu24z2RKkd5fqLeQVGCsfIwa5MNeAikke0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1087"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QAY3/qM6mKu24z2RKkd5fqLeQVGCsfIwa5MNeAikke0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Nov 2025 11:24:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SchoolAppCoreRazor/SchoolAppCoreRazor.zufyqtegho.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SchoolAppCoreRazor.zufyqtegho.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/SchoolAppCoreRazor/SchoolAppCoreRazor.cx1s5j7tcy.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SchoolAppCoreRazor.cx1s5j7tcy.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zufyqtegho"},{"Name":"integrity","Value":"sha256-Na3gAR61CGHhFowfS7kiEKWYkSf0ksBIfpsO5ep/2BQ="},{"Name":"label","Value":"_content/SchoolAppCoreRazor/SchoolAppCoreRazor.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1087"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Na3gAR61CGHhFowfS7kiEKWYkSf0ksBIfpsO5ep/2BQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Nov 2025 10:03:48 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cx1s5j7tcy"},{"Name":"integrity","Value":"sha256-QAY3/qM6mKu24z2RKkd5fqLeQVGCsfIwa5MNeAikke0="},{"Name":"label","Value":"_content/SchoolAppCoreRazor/SchoolAppCoreRazor.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1087"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QAY3/qM6mKu24z2RKkd5fqLeQVGCsfIwa5MNeAikke0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Nov 2025 11:24:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

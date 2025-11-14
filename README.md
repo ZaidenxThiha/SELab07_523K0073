@@ -33,6 +33,12 @@ dotnet run --project SchoolAppCoreMVC
 
 Both projects display guidance on their home pages and expose menu entries for Departments, Courses, Students, Instructors, and Enrollments. Course and Enrollment forms include drop‑downs for related data to match the original instructions. CRUD validation + antiforgery is configured through the generated scaffolding.
 
+## Viewing the RDLC report
+
+- Launch the Razor Pages app and use the navigation link **Enrollments Report (PDF)**.
+- The app generates a PDF on the fly by feeding `Reports/EnrollmentsReport.rdlc` with live data through `AspNetCore.Reporting`.
+- On macOS/Linux, install the native dependencies needed by `System.Drawing` (e.g., `brew install mono-libgdiplus`) before rendering the report; on Windows no extra setup is required.
+
 ## EF Core DB‑First notes
 
 - The models and context are stored in `SchoolAppCore.Data` so Razor Pages and MVC can stay in sync with the same schema.
