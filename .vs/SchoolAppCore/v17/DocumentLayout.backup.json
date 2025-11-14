@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\GitHub\\SELab07_523K0073\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BD83943-25C1-4963-9A43-EFCEF143ACC9}|SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj|c:\\mac\\home\\documents\\github\\selab07_523k0073\\schoolappcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BD83943-25C1-4963-9A43-EFCEF143ACC9}|SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj|solutionrelative:schoolappcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9BD83943-25C1-4963-9A43-EFCEF143ACC9}|SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj|c:\\mac\\home\\documents\\github\\selab07_523k0073\\schoolappcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BD83943-25C1-4963-9A43-EFCEF143ACC9}|SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj|solutionrelative:schoolappcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F32EBF2-A19F-483C-985C-01EAA3FBB893}|SchoolAppCoreRazor\\SchoolAppCoreRazor.csproj|c:\\mac\\home\\documents\\github\\selab07_523k0073\\schoolappcorerazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F32EBF2-A19F-483C-985C-01EAA3FBB893}|SchoolAppCoreRazor\\SchoolAppCoreRazor.csproj|solutionrelative:schoolappcorerazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD83943-25C1-4963-9A43-EFCEF143ACC9}|SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj|c:\\mac\\home\\documents\\github\\selab07_523k0073\\schoolappcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BD83943-25C1-4963-9A43-EFCEF143ACC9}|SchoolAppCoreMVC\\SchoolAppCoreMVC.csproj|solutionrelative:schoolappcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68E33145-C8B8-444C-B576-D806456AAD01}|SchoolAppCore.Data\\SchoolAppCore.Data.csproj|c:\\mac\\home\\documents\\github\\selab07_523k0073\\schoolappcore.data\\schoolappcore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\SELab07_523K0073\\SchoolAppCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolAppCoreMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\SELab07_523K0073\\SchoolAppCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SchoolAppCoreMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T10:54:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\SELab07_523K0073\\SchoolAppCoreRazor\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "SchoolAppCoreRazor\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\SELab07_523K0073\\SchoolAppCoreRazor\\Pages\\Index.cshtml",
               "RelativeToolTip": "SchoolAppCoreRazor\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-14T10:33:18.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\SELab07_523K0073\\SchoolAppCoreMVC\\appsettings.json",
               "RelativeDocumentMoniker": "SchoolAppCoreMVC\\appsettings.json",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SchoolAppCore.Data",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\SELab07_523K0073\\SchoolAppCore.Data\\SchoolAppCore.Data.csproj",
               "RelativeDocumentMoniker": "SchoolAppCore.Data\\SchoolAppCore.Data.csproj",
